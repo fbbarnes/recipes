@@ -1,4 +1,4 @@
 baseURL = 'https://fbbarnes.github.io/recipes/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Wardlaw Eats'
 theme = 'lugo'
