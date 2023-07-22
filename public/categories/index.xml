@@ -1,38 +1,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>My New Hugo Site</title>
-	<link>http://example.org/categories/</link>
-	<description>Recent content in Categories on My New Hugo Site</description>
+	<title>Wardlaw Eats</title>
+	<link>https://fbbarnes.github.io/recipes/categories/</link>
+	<description>Recent content in Categories on Wardlaw Eats</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://fbbarnes.github.io/recipes/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Roast Chicken Thighs</title>
-		<link>http://example.org/roast-chicken-thighs/</link>
+		<link>https://fbbarnes.github.io/recipes/roast-chicken-thighs/</link>
 		<pubDate>Sat, 22 Jul 2023 14:36:57 +0100</pubDate>
 		
-		<guid>http://example.org/roast-chicken-thighs/</guid>
+		<guid>https://fbbarnes.github.io/recipes/roast-chicken-thighs/</guid>
 		<description></description>
 	</item>
 	
 	<item>
 		<title>Salmon Bowl</title>
-		<link>http://example.org/salmon-bowl/</link>
+		<link>https://fbbarnes.github.io/recipes/salmon-bowl/</link>
 		<pubDate>Sat, 22 Jul 2023 14:36:08 +0100</pubDate>
 		
-		<guid>http://example.org/salmon-bowl/</guid>
+		<guid>https://fbbarnes.github.io/recipes/salmon-bowl/</guid>
 		<description></description>
 	</item>
 	
 	<item>
 		<title>Mushroom Tagliatelle</title>
-		<link>http://example.org/mushroom-tagliatelle/</link>
+		<link>https://fbbarnes.github.io/recipes/mushroom-tagliatelle/</link>
 		<pubDate>Sat, 22 Jul 2023 14:35:28 +0100</pubDate>
 		
-		<guid>http://example.org/mushroom-tagliatelle/</guid>
+		<guid>https://fbbarnes.github.io/recipes/mushroom-tagliatelle/</guid>
 		<description>&lt;p&gt;Creamy mushroom tagliatelle.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;⏲️ Prep time: ?&lt;/li&gt;
@@ -54,28 +54,28 @@
 	
 	<item>
 		<title>Drop Scones</title>
-		<link>http://example.org/drop-scones/</link>
+		<link>https://fbbarnes.github.io/recipes/drop-scones/</link>
 		<pubDate>Sat, 22 Jul 2023 14:34:09 +0100</pubDate>
 		
-		<guid>http://example.org/drop-scones/</guid>
+		<guid>https://fbbarnes.github.io/recipes/drop-scones/</guid>
 		<description></description>
 	</item>
 	
 	<item>
 		<title>Fajitas</title>
-		<link>http://example.org/fajitas/</link>
+		<link>https://fbbarnes.github.io/recipes/fajitas/</link>
 		<pubDate>Sat, 22 Jul 2023 14:33:28 +0100</pubDate>
 		
-		<guid>http://example.org/fajitas/</guid>
+		<guid>https://fbbarnes.github.io/recipes/fajitas/</guid>
 		<description></description>
 	</item>
 	
 	<item>
 		<title>Bulgur Wheat Salad</title>
-		<link>http://example.org/bulgur-wheat-salad/</link>
+		<link>https://fbbarnes.github.io/recipes/bulgur-wheat-salad/</link>
 		<pubDate>Sat, 22 Jul 2023 14:33:06 +0100</pubDate>
 		
-		<guid>http://example.org/bulgur-wheat-salad/</guid>
+		<guid>https://fbbarnes.github.io/recipes/bulgur-wheat-salad/</guid>
 		<description>&lt;p&gt;Fresh Seummer-y salad&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;⏲️ Prep time: ?&lt;/li&gt;
@@ -99,10 +99,10 @@
 	
 	<item>
 		<title>Spring Rolls</title>
-		<link>http://example.org/spring-rolls/</link>
+		<link>https://fbbarnes.github.io/recipes/spring-rolls/</link>
 		<pubDate>Sat, 22 Jul 2023 14:32:24 +0100</pubDate>
 		
-		<guid>http://example.org/spring-rolls/</guid>
+		<guid>https://fbbarnes.github.io/recipes/spring-rolls/</guid>
 		<description>&lt;p&gt;These fresh Vietnamese spring rolls are made with shrimp, vegetables, herbs, and rice noodles wrapped in rice paper. Below, I have listed dipping sauce options. Traditionally, the spring rolls are served with nước chấm, a fish sauce-based dipping sauce. I&amp;rsquo;ve found that they taste good with peanut sauce too. The spring rolls are best consumed the day they are made.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;⏲️ Prep time: 30 min&lt;/li&gt;
