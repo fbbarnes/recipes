@@ -6,6 +6,8 @@ draft: false
 
 Fresh Seummer-y salad
 
+![This is an image](/bulgur-wheat-salad.jpg)
+
 - ⏲️ Prep time: ?
 - 🍳 Cook time: ?
 - 🍽️ Servings: 4
