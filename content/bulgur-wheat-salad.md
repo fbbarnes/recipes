@@ -4,9 +4,9 @@ date: 2023-07-22T14:33:06+01:00
 draft: false
 ---
 
-Fresh Seummer-y salad
+Fresh Summer-y salad
 
-![This is an image](/bulgur-wheat-salad.jpg)
+![This is an image](bulgur-wheat-salad.jpg)
 
 - ⏲️ Prep time: ?
 - 🍳 Cook time: ?
