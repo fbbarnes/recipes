@@ -2,6 +2,7 @@
 title: Bulgur Wheat Salad
 date: 2023-07-22T14:33:06+01:00
 draft: false
+tags: [salad, cold]
 ---
 
 Ottolenghi’s bulgur with tomato, aubergine and preserved lemon yoghurt 
