@@ -1,5 +1,5 @@
 ---
-title: Burnt Basque cheeseckae
+title: Burnt Basque cheesecake
 date: 2023-07-22T14:32:24+01:00
 draft: false
 authors: [Ann]
