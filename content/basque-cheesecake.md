@@ -15,9 +15,9 @@ This easy burnt Basque cheesecake recipe comes from the Devour Tours cookbook an
 
 - 1kg cream cheese at room temperature (can substitute, eg mascarpone)
 - 7 eggs
-- 400g sugar
-- 1 tbsp flour
-- 200ml double crea
+- 200g sugar (to taste)
+- 1 tbsp flour (optional)
+- 200ml double cream
 
 ## Directions
 
