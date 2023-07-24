@@ -1,12 +1,12 @@
 ---
-title: "Bulgur Wheat Salad"
+title: Bulgur Wheat Salad
 date: 2023-07-22T14:33:06+01:00
 draft: false
 ---
 
 Ottolenghi’s bulgur with tomato, aubergine and preserved lemon yoghurt 
 
-![This is an image](/img/bulgur-wheat-salad.jpg)
+![This is an image](img/bulgur-wheat-salad.jpg)
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 45 min

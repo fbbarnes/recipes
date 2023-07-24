@@ -1,7 +1,8 @@
 ---
-title: “Jamie’s 30-minute Chicken Pie”
+title: Chicken Pie
 date: 2023-07-22T14:32:24+01:00
 draft: false
+authors: [Jamie Oliver]
 ---
 ## Ingredients
 

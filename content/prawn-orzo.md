@@ -1,7 +1,8 @@
 ---
-title: “Prawn Orzo”
+title: Prawn Orzo
 date: 2023-07-22T14:32:24+01:00
 draft: false
+authors: [Yottam Ottoloenghi]
 ---
 
 Ottolenghi’s bulgur with tomato, aubergine and preserved lemon yoghurt
