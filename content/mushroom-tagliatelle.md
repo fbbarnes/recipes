@@ -6,8 +6,8 @@ draft: false
 
 Creamy mushroom tagliatelle. 
 
-- ⏲️ Prep time: ?
-- 🍳 Cook time: ?
+- ⏲️ Prep time: 5
+- 🍳 Cook time: 20
 - 🍽️ Servings: 4
 
 ## Ingredients
