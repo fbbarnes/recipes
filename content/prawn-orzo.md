@@ -1,12 +1,10 @@
 ---
-title: "Bulgur Wheat Salad"
-date: 2023-07-22T14:33:06+01:00
+title: “Prawn Orzo”
+date: 2023-07-22T14:32:24+01:00
 draft: false
 ---
 
-Ottolenghi’s bulgur with tomato, aubergine and preserved lemon yoghurt 
-
-![This is an image](/img/bulgur-wheat-salad.jpg)
+Ottolenghi’s bulgur with tomato, aubergine and preserved lemon yoghurt
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 45 min
@@ -14,23 +12,20 @@ Ottolenghi’s bulgur with tomato, aubergine and preserved lemon yoghurt
 
 ## Ingredients
 
-
-- 2 large aubergines (500g net weight), cut into 3cm chunks
-- 100ml olive oil
-- Salt and black pepper
-- 2 onions, peeled and finely sliced
-- 3 garlic cloves, peeled and crushed
-- 1 tsp ground allspice
-- 400g cherry tomatoes
-- 1 tbsp tomato paste
-- 250g bulgur wheat
-- 200g Greek-style yoghurt
-- 1 small preserved lemon, pips discarded, skin and flesh finely chopped
-- 10g mint leaves (about 1 tbsp) finely shredded
-
+* 2 large aubergines (500g net weight), cut into 3cm chunks
+* 100ml olive oil
+* Salt and black pepper
+* 2 onions, peeled and finely sliced
+* 3 garlic cloves, peeled and crushed
+* 1 tsp ground allspice
+* 400g cherry tomatoes
+* 1 tbsp tomato paste
+* 250g bulgur wheat
+* 200g Greek-style yoghurt
+* 1 small preserved lemon, pips discarded, skin and flesh finely chopped
+* 10g mint leaves (about 1 tbsp) finely shredded
 
 ## Directions
-
 
 1. Heat the oven to 220C/425F/gas 7. 
 2. Put the aubergine in a large bowl with four tablespoons of oil, half a teaspoon of salt and a good grind of pepper. 
@@ -42,5 +37,3 @@ Ottolenghi’s bulgur with tomato, aubergine and preserved lemon yoghurt
 8. Add the bulgur, stirring it in so it’s completely coated, then turn off the heat and set aside for 20 minutes, so the bulgur can absorb all the liquid.
 9. In a medium bowl, mix the yoghurt with the preserved lemon, half the mint and an eighth of a teaspoon of salt.
 10. Divide the bulgur between four plates and serve with the yoghurt and aubergine alongside and a sprinkling of the remaining mint.
-
-
