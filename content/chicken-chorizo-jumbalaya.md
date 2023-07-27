@@ -1,6 +1,6 @@
 ---
 title: Chicken and chorizo jumbalaya
-date: 2023-07-22T14:33:06+01:00
+date: 2023-07-27T13:19:06+01:00
 draft: false
 tags: ['hot', 'rice']
 ---
