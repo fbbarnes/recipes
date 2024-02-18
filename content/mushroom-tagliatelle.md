@@ -2,6 +2,7 @@
 title: "Mushroom Tagliatelle"
 date: 2023-07-22T14:35:28+01:00
 draft: false
+tags: ['hot', 'pasta', 'vegetarian']
 ---
 
 Creamy mushroom tagliatelle. 

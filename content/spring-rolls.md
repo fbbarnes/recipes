@@ -2,6 +2,7 @@
 title: "Spring Rolls"
 date: 2023-07-22T14:32:24+01:00
 draft: false
+tags: ['cold']
 ---
 
 These fresh Vietnamese spring rolls are made with shrimp, vegetables, herbs, and rice noodles wrapped in rice paper. Below, I have listed dipping sauce options. Traditionally, the spring rolls are served with nước chấm, a fish sauce-based dipping sauce. I've found that they taste good with peanut sauce too. The spring rolls are best consumed the day they are made. 

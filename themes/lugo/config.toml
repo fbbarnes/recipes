@@ -16,3 +16,4 @@ languageCode = 'en-us'
   taglist = true
   showrss = true
 
+  tags = 5

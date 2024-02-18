@@ -1,4 +1,4 @@
-        {{- if isset .Params "tag" -}}
+        {{- if isset .Params "tags" -}}
             {{- $tagsLen := len .Params.tags -}}
             {{- if gt $tagsLen 0 -}}
         <div style="clear:both" class=taglist>

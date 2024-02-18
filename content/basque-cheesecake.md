@@ -3,6 +3,7 @@ title: Burnt Basque cheesecake
 date: 2023-07-22T14:32:24+01:00
 draft: false
 authors: [Ann]
+tags: ['dessert']
 ---
 
 This easy burnt Basque cheesecake recipe comes from the Devour Tours cookbook and is based on the original version served at La Viña in San Sebastián.
