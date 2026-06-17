@@ -1,4 +1,3 @@
-baseURL = 'https://fbbarnes.github.io/recipes/'
-languageCode = 'en-us'
+baseURL = 'https://wardlaweats.bigshed.net/'
 title = 'Wardlaw Eats'
 theme = 'lugo'

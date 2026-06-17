@@ -1,6 +1,9 @@
-title = "Website Name"
-baseURL = 'https://fbbarnes.github.io/recipes/'
-languageCode = 'en-us'
+title = "Wardlaw Eats"
+baseURL = 'https://wardlaweats.bigshed.net/'
+
+[author]
+name = "Frederik Brooke Barnes"
+email = "frederikbarnes@icloud.com"
 
 [params]
   # "relatedtext" is the text that appears above the tag list at the bottom of pages.
