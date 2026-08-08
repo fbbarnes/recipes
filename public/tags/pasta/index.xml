@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Pasta on Wardlaw Eats</title>
-		<link>https://wardlaweats.bigshed.net/tags/pasta/</link>
+		<link>http://localhost:1313/tags/pasta/</link>
 		<description>Recent content in Pasta on Wardlaw Eats</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sat, 22 Jul 2023 14:35:28 +0100</lastBuildDate>
 		
-			<atom:link href="https://wardlaweats.bigshed.net/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Mushroom Tagliatelle</title>
-				<link>https://wardlaweats.bigshed.net/mushroom-tagliatelle/</link>
+				<link>http://localhost:1313/mushroom-tagliatelle/</link>
 				<pubDate>Sat, 22 Jul 2023 14:35:28 +0100</pubDate>
-				<guid>https://wardlaweats.bigshed.net/mushroom-tagliatelle/</guid>
+				<guid>http://localhost:1313/mushroom-tagliatelle/</guid>
 				<description>&lt;p&gt;Creamy mushroom tagliatelle.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;⏲️ Prep time: 5&lt;/li&gt;&#xA;&lt;li&gt;🍳 Cook time: 20&lt;/li&gt;&#xA;&lt;li&gt;🍽️ Servings: 4&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tagliatelle pasta&lt;/li&gt;&#xA;&lt;li&gt;Shallots&lt;/li&gt;&#xA;&lt;li&gt;Garlic cloves&lt;/li&gt;&#xA;&lt;li&gt;Mushrooms&lt;/li&gt;&#xA;&lt;li&gt;Cream&lt;/li&gt;&#xA;&lt;li&gt;Wholegrain Dijon mustard&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;directions&#34;&gt;Directions&lt;/h2&gt;</description>
 			</item>
 			<item>
 				<title>Prawn Orzo</title>
-				<link>https://wardlaweats.bigshed.net/prawn-orzo/</link>
+				<link>http://localhost:1313/prawn-orzo/</link>
 				<pubDate>Sat, 22 Jul 2023 14:32:24 +0100</pubDate>
-				<guid>https://wardlaweats.bigshed.net/prawn-orzo/</guid>
+				<guid>http://localhost:1313/prawn-orzo/</guid>
 				<description>&lt;p&gt;Ottolenghi’s bulgur with tomato, aubergine and preserved lemon yoghurt&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;⏲️ Prep time: 15 min&lt;/li&gt;&#xA;&lt;li&gt;🍳 Cook time: 45 min&lt;/li&gt;&#xA;&lt;li&gt;🍽️ Servings: 4 as a main&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 large aubergines (500g net weight), cut into 3cm chunks&lt;/li&gt;&#xA;&lt;li&gt;100ml olive oil&lt;/li&gt;&#xA;&lt;li&gt;Salt and black pepper&lt;/li&gt;&#xA;&lt;li&gt;2 onions, peeled and finely sliced&lt;/li&gt;&#xA;&lt;li&gt;3 garlic cloves, peeled and crushed&lt;/li&gt;&#xA;&lt;li&gt;1 tsp ground allspice&lt;/li&gt;&#xA;&lt;li&gt;400g cherry tomatoes&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp tomato paste&lt;/li&gt;&#xA;&lt;li&gt;250g bulgur wheat&lt;/li&gt;&#xA;&lt;li&gt;200g Greek-style yoghurt&lt;/li&gt;&#xA;&lt;li&gt;1 small preserved lemon, pips discarded, skin and flesh finely chopped&lt;/li&gt;&#xA;&lt;li&gt;10g mint leaves (about 1 tbsp) finely shredded&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;directions&#34;&gt;Directions&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Heat the oven to 220C/425F/gas 7.&lt;/li&gt;&#xA;&lt;li&gt;Put the aubergine in a large bowl with four tablespoons of oil, half a teaspoon of salt and a good grind of pepper.&lt;/li&gt;&#xA;&lt;li&gt;Mix, then spread out on a large oven tray lined with greaseproof paper and roast for 30-35 minutes, stirring once halfway, until the aubergines are caramelised and soft. Take out of the oven and leave to cool.&lt;/li&gt;&#xA;&lt;li&gt;Meanwhile, put three tablespoons of oil in a large saute pan for which you have a lid and heat on a medium-high flame.&lt;/li&gt;&#xA;&lt;li&gt;Once hot, fry the onion for eight minutes, stirring a few times, until caramelised and soft.&lt;/li&gt;&#xA;&lt;li&gt;Add the garlic and allspice, fry for a minute, stirring continuously, until the garlic is aromatic and starting to brown, then add the cherry tomatoes, mashing them with a potato masher to break them up.&lt;/li&gt;&#xA;&lt;li&gt;Stir in the tomato paste, 400ml water and a teaspoon of salt, bring to a boil, turn down the heat to medium-low, cover and cook for 12 minutes.&lt;/li&gt;&#xA;&lt;li&gt;Add the bulgur, stirring it in so it’s completely coated, then turn off the heat and set aside for 20 minutes, so the bulgur can absorb all the liquid.&lt;/li&gt;&#xA;&lt;li&gt;In a medium bowl, mix the yoghurt with the preserved lemon, half the mint and an eighth of a teaspoon of salt.&lt;/li&gt;&#xA;&lt;li&gt;Divide the bulgur between four plates and serve with the yoghurt and aubergine alongside and a sprinkling of the remaining mint.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
 			</item>
 	</channel>
